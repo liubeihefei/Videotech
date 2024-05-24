@@ -1,7 +1,7 @@
 """
 @FileName：dropTail.py
 @Description：
-@Author：horsefly
+@Author：liubeihefei
 @Time：2024/5/23 22:46
 """
 
